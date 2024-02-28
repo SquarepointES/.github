@@ -1,4 +1,10 @@
-# Repositorio Oficial de Squarepoint
+# Bienvenidos al Repositorio Oficial de Squarepoint
 
-Para más informacion viste la pagina web: https://www.squarepoint.es/
+*Name convention*
+
+tecnología-cliente-proyecto-función
+
+por ejemplo : pn-synectic-sco-sftp
+
+
 
