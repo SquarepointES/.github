@@ -1,4 +1,4 @@
-# Bienvenidos al Repositorio Oficial de Squarepoint
+# Bienvenidos al Repositorio Oficial de Código Squarepoint
 
 *Name convention*
 
